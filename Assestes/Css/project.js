@@ -1,0 +1,120 @@
+$('.owl-one-1').owlCarousel({
+    loop:true,
+    margin:30,
+    nav:false,
+    autoplay:true,
+    smartSpeed:250,
+    dots:false,
+    responsive:{
+        0:{
+            items:3
+        },
+        900:{
+            items:4
+        },
+        1100:{
+            items:5
+        },
+        1920:{
+            items:6
+        }
+    }
+})
+
+$('.owl-two-2').owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    dots:false,
+    autoplay:true,
+    smartSpeed:250,
+    responsive:{
+        0:{
+            items:1
+        },
+        900:{
+            items:1
+        },
+        1000:{
+            items:2.5
+        }
+    }
+})
+$('.owl-tree-3').owlCarousel({
+    loop:true,
+    margin:30,
+    nav:false,
+    autoplay:true,
+    smartSpeed:250,
+    dots:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        768:{
+            items:2
+        },
+        1100:{
+            items:2
+        },
+        1920:{
+            items:3
+        }
+    }
+})
+
+$('.about-p-1').owlCarousel({
+    loop:true,
+    margin:30,
+    nav:false,
+    autoplay:true,
+    smartSpeed:250,
+    dots:false,
+    responsive:{
+        0:{
+            items:3
+        },
+        768:{
+            items:3
+        },
+        1100:{
+            items:5        },
+        1920:{
+            items:5
+        }
+    }
+})
+$('.about-p-2').owlCarousel({
+    loop:true,
+    margin:30,
+    nav:false,
+    autoplay:true,
+    smartSpeed:250,
+    dots:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        768:{
+            items:2
+        },
+        1100:{
+            items:2       },
+        1920:{
+            items:2
+        }
+    }
+})
+$('.about-p-3').owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    autoplay:true,
+    smartSpeed:250,
+    dots:false,
+    responsive:{
+        0:{
+            items:1
+        },
+    }
+})

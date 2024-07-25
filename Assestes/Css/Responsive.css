@@ -1,0 +1,345 @@
+@media only screen and (max-width: 1920px) {
+    .navbar .small-logo {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 1660px) {
+    .carousel-caption ul li img {
+        width: 70%;
+    }
+
+
+    .pump-img img {
+        padding: 26px 0px;
+        border-radius: 111px;
+        width: 13%;
+    }
+
+    .p-2-banner .banner-text {
+        right: 44%;
+        top: 60%;
+        transform: translateY(-60%);
+    }
+}
+    @media only screen and (max-width:1440px) {
+        .had-text .r-text h3 {
+            padding: 0px;
+        }
+
+        .had-text .row-2-img img {
+            width: 100%;
+        }
+
+        .rectangel-dtls img {
+            width: 100%;
+            padding: 11px 0px 0px 0px;
+        }
+
+        .section-5-card p {
+            padding: 0px 0px 144px 0px;
+        }
+
+        .Where-to-install .install-cards img {
+            width: 222px;
+            height: 154px;
+        }
+        .p-2-banner .banner-text {
+            top: 69%;
+            right: 41%;
+        }
+
+        .Why-Pneutork .pneutork-item p {
+            padding: 17px 0px 4px 5px;
+        }
+
+        .inqiry-text {
+            width: 78%;
+        }
+
+        .our-team .team-card h5 {
+            line-height: 1px;
+            padding: 0px 0px 10px 0px;
+        }
+
+        .our-team .team-card {
+            padding: 20px;
+        }
+    }
+
+    @media only screen and (max-width:1200px) {
+        .navbar-brand img {
+            width: 67%;
+        }
+
+        .all-btn {
+            padding: 10px 25px !important
+        }
+
+        .navbar-nav .nav-link {
+            padding: 10px 25px;
+        }
+
+        .carousel-caption ul li img {
+            width: 65%;
+            margin: -46px 0px 10px 0px;
+        }
+
+        .pump-img img {
+            padding: 19px 0px;
+        }
+
+        h3 {
+            font-size: 30px !important;
+            line-height: 41px !important;
+            padding-right: 0px !important;
+        }
+
+        .had-text .row-2-img img {
+            padding: 155px 0px 0px 0px;
+        }
+
+        .item-pdf {
+            padding: 41px 0px 15px 0px;
+        }
+
+        .item-pdf p {
+            font-size: 15px;
+            line-height: 51px;
+        }
+
+        .item-pdf a {
+            font-size: 15px;
+            line-height: 0px;
+        }
+        .p-2-banner .banner-text {
+            right: 38%;
+        }
+
+        .vision-p-2-dtl h5 {
+            padding: 13px 0px 4px 0px;
+        }
+
+        .Where-to-install .install-cards img {
+            width: 100%;
+            height: 100%;
+        }
+
+        .Where-to-install .install-cards p {
+            font-size: 12px;
+            padding: 10px 0px 0px 0px;
+        }
+
+        .Why-Pneutork .pneutork-item p {
+            padding: 19px 0px 19px 5px;
+            text-align: center;
+        }
+
+        .Our-Clients .our-clients-dtl img {
+            width: 100%;
+            height: 100%;
+            padding: 0px 35px 0px 0px;
+        }
+
+        .inqiry-text {
+            width: 70%;
+        }
+
+        .t-fooer .f-text a p,
+        .rectangel-dtls p {
+            font-size: 14px;
+        }
+
+        .t-fooer h5 {
+            padding: 50px 0px 0px 0px;
+        }
+
+
+    }
+
+    @media only screen and (max-width:1140px) {
+        .navbar-nav .nav-link {
+            font-size: 13px;
+        }
+
+        .carousel-caption h5 {
+            font-size: 30px;
+        }
+
+
+    }
+
+    @media only screen and (max-width:992px) {
+        .navbar-nav .full-logo {
+            display: none;
+        }
+
+        .navbar .small-logo {
+            display: block;
+            width: 20%;
+
+        }
+
+        nav.navbar {
+            border-radius: 10px;
+            top: 10px;
+        }
+
+        .carousel-caption h5 {
+            font-size: 22px;
+        }
+
+        .carousel-caption p {
+            font-size: 15px;
+            padding: 2px 0px 44px 0px;
+        }
+
+        .pump-img {
+            gap: 20px;
+            margin: 100px 0px 100px 0px;
+        }
+
+        .pump-img img {
+            padding: 21px 0px;
+        }
+
+        .had-text .r-text h3,
+        .rectangel-dtls h3,
+        .row-2-text h3,
+        .rectangel-8-r-text h3,
+        .row-2-text h5,
+        .row-2-text p,
+        .rectangel-item h3,
+        .rectangel-item p,
+        .rectangel-dtls h5 {
+            text-align: center;
+        }
+
+        .section-5-card p {
+            padding: 0px 0px 60px 0px;
+        }
+
+        .had-text .row-2-img img {
+            padding: 100px 0px 0px 0px;
+        }
+
+        .had-text .row-2-text {
+            padding: 51px 0px 0px 0px;
+        }
+
+        .rectangel-item h5 {
+            padding: 50px 0px 0px 0px;
+            text-align: center;
+        }
+
+        .rectangel-item p {
+            padding-bottom: 20px;
+        }
+
+        .rectangel-8-r-text h5 {
+            padding: 100px 0px 0px 0px;
+            text-align: center;
+        }
+
+        .rectangel-8-r-text h3 {
+            padding: 0px;
+            text-align: center;
+        }
+
+        .Where-to-install {
+            padding: 20px 0px 20px 0px;
+        }
+
+        .Our-Clients .our-clients-dtl {
+            flex-direction: column;
+        }
+
+        .Our-Clients .our-clients-dtl img {
+            width: 100%;
+            height: 100%;
+            padding: 20px 0px 20px 0px;
+        }
+
+        .Send-Inquiry {
+            padding: 30px 0px 60px 0px;
+            flex-direction: column;
+        }
+
+        .Company-profile .pera-2 p {
+            text-align: center;
+        }
+
+        .Send-Inquiry .inqiry-text p {
+            padding: 29px 0px 70px 0px;
+            text-align: center;
+        }
+
+        .Send-Inquiry .inqiry-text h2 {
+            text-align: center;
+        }
+
+        .vision-p-2-dtl h5,
+        .vision-p-2-dtl p {
+            text-align: center;
+            padding: 25px 0px 4px 0px;
+        }
+        .p-2-banner img{
+            height: 271px;
+        }
+
+
+    }
+
+    @media only screen and (max-width:768px) {
+        .carousel-inner .active .banner-f-img {
+            width: 100% !important;
+        }
+
+        .navbar .small-logo {
+            width: 32%;
+        }
+
+        h3 {
+            text-align: center !important;
+        }
+
+        .navbar .small-logo {
+            width: 50%;
+        }
+
+        .Company-profile p {
+            padding: 50px 0px 21px 0px;
+            text-align: center;
+        }
+
+        .vision-p-2-dtl p {
+            padding: 30px 0px 50px 0px;
+        }
+
+        .Our-Clients {
+            margin: 50px 0px;
+            padding: 30px 5px;
+        }
+
+        .inqiry-text {
+            width: 99%;
+        }
+        .p-2-banner img{
+            height: 222px;
+        }
+        .p-2-banner .banner-text h2 {
+            font-size: 35px;
+            line-height: 31px;
+        }
+        .p-2-banner .banner-text {
+            right: 27%;
+        }
+    }
+
+
+
+
+    @media only screen and (max-width:480px) {
+    
+    }
